@@ -2,4 +2,4 @@ this is simple text file
 
 there is a change in start file
 
-chnages made on 4th march
+changes made on 4th march
